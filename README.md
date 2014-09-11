@@ -5,7 +5,7 @@ wangpan_and_BT_search
 
 使用到的第三方库：requests，BeautifulSoup4
 
-本程序使用网盘搜（http://www.wangpansou.cn/）和磁力搜（http://www.cilisou.cn/）的搜索结果
+本程序使用网盘搜 (http://www.wangpansou.cn/) 和磁力搜 (http://www.cilisou.cn/) 的搜索结果
 
 经由程序搜索所产生的任何结果皆不代表本人立场
 
